@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+!.env.example
+backups/*
+!backups/.gitkeep
+logs/*
+!logs/.gitkeep
+*.dump
+*.partial
+*.upload.json
+*.upload.json.tmp
+coverage/
